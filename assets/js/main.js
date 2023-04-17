@@ -23,7 +23,7 @@
             imJs.smothScroll();
             imJs.smothScroll_Two();
             imJs.stickyAdjust();
-            imJs.testimonialActivation();x
+            imJs.testimonialActivation();
             imJs.wowActive();
             imJs.awsActivation();
             // imJs.demoActive();
